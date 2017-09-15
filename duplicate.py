@@ -1,4 +1,5 @@
 # remove duplicates numbers in a file
+# idea for this mini project surfaced during intern period to sort database of student numbers
 import os.path
 
 def removeDuplicate(filename1, filename2):
